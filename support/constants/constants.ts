@@ -1,0 +1,14 @@
+export const overviewUrl = 'https://onskeskyen.dk/da/overview';
+export const plusButton = 'plus-button';
+export const personalType = 'wl-forMe';
+export const sharedType = 'wl-collab';
+export const onBehalfType = 'wl-subAccount';
+export const nameInput = 'create-wishlist-title-input';
+export const submitButton = 'createWishlistSubmitButton';
+export const modalTitle = 'Opret ønskeliste';
+export const createButtonText = 'OPRET ØNSKELISTE';
+export const sharedButtonText = 'TILFØJ SAMARBEJDSPARTNER';
+export const onBehalfButtonText = 'TILFØJ EN UNDER-KONTO';
+export const defaultPersonalName = 'Min ønskeliste';
+export const defaultSharedName = 'Vores ønskeliste';
+export const defaultOnBehalfName = 'Ønskeliste';
